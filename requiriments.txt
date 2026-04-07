@@ -1,7 +1,0 @@
-flask
-astropy
-numpy
-scipy
-matplotlib
-photutils
-requests
