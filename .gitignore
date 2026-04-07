@@ -1,0 +1,7 @@
+*.fits
+*.fit
+__pycache__/
+*.pyc
+*.png
+checar.py
+converter_fits.py
